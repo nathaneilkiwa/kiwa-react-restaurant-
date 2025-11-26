@@ -66,25 +66,6 @@ Mongoose
 
 JSON Web Tokens (JWT)
 
-🗂️ Project Structure
-kiwa/
-├── restaurant-frontend/
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── utils/
-│   │   ├── pages/
-│   │   │   ├── Home.jsx
-│   │   │   ├── Menu.jsx
-│   │   │   ├── Order.jsx
-│   │   │   ├── Booking.jsx
-│   │   │   ├── Contact.jsx
-│   │   │   ├── Login.jsx
-│   │   │   └── NotFound.jsx
-│   │   └── main.jsx
-│   └── index.html
-└── backend/   <-- if your repo includes backend services
 
 🚀 Getting Started
 Clone the Repository
