@@ -1,5 +1,7 @@
 Kiwa Restaurant App 🍽️
 
+<img width="1911" height="995" alt="Screenshot 2025-11-27 155310" src="https://github.com/user-attachments/assets/eb9f1441-e9c5-4687-8803-b11b06bf78d3" />
+
 A modern, full-stack restaurant web application built for speed, scalability, and a delightful user experience.
 
 Kiwa is a complete restaurant platform that allows customers to browse the menu, place orders, book tables, and contact the restaurant—all through a clean, intuitive, and responsive web interface.
